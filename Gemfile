@@ -23,6 +23,8 @@ gem 'active_model_serializers'
 
 gem "passenger"
 
+gem "turbolinks"
+
 group :doc do
   # bundle exec rake doc:rails generates the API under doc/api.
   gem 'sdoc', require: false
